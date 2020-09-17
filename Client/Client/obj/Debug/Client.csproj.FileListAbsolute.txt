@@ -1,0 +1,9 @@
+C:\Sockets\Client\Client\obj\Debug\Client.Form1.resources
+C:\Sockets\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Sockets\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Sockets\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Sockets\Client\Client\bin\Debug\Client.exe.config
+C:\Sockets\Client\Client\bin\Debug\Client.exe
+C:\Sockets\Client\Client\bin\Debug\Client.pdb
+C:\Sockets\Client\Client\obj\Debug\Client.exe
+C:\Sockets\Client\Client\obj\Debug\Client.pdb

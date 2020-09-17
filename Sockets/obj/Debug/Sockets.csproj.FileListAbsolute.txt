@@ -1,0 +1,8 @@
+C:\Sockets\Sockets\obj\Debug\Sockets.Properties.Resources.resources
+C:\Sockets\Sockets\obj\Debug\Sockets.csproj.GenerateResource.cache
+C:\Sockets\Sockets\obj\Debug\Sockets.csproj.CoreCompileInputs.cache
+C:\Sockets\Sockets\bin\Debug\Sockets.exe.config
+C:\Sockets\Sockets\bin\Debug\Sockets.exe
+C:\Sockets\Sockets\bin\Debug\Sockets.pdb
+C:\Sockets\Sockets\obj\Debug\Sockets.exe
+C:\Sockets\Sockets\obj\Debug\Sockets.pdb

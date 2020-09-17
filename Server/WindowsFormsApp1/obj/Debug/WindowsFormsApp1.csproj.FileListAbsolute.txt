@@ -1,0 +1,9 @@
+C:\Sockets\Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Sockets\Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Sockets\Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Sockets\Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Sockets\Server\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Sockets\Server\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Sockets\Server\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Sockets\Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Sockets\Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
